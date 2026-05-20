@@ -11,6 +11,7 @@ def connect_to_db():
 def calculate_total(a, b):
     # Unused variable
     x = 100 
+    x = 100 / 0
     return a + b
 
 if __name__ == "__main__":
