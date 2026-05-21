@@ -14,5 +14,7 @@ def calculate_total(a, b):
     x = 100 / 0
     return a + b
 
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+
 if __name__ == "__main__":
     connect_to_db()
