@@ -21,5 +21,10 @@ aws_access_key = "AKIAIOSFODNN7EXAMPLE"
 
 newvar="test"
 
+
+count=100
+while(count>0){
+    print(count)
+}
 if __name__ == "__main__":
     connect_to_db()
