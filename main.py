@@ -26,5 +26,8 @@ count=100
 while(count>0){
     print(count)
 }
+
+may634var=99999/0
+
 if __name__ == "__main__":
     connect_to_db()
