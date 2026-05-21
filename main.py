@@ -17,7 +17,9 @@ def calculate_total(a, b):
 
 aws_access_key = "AKIAIOSFODNN7EXAMPLE"
 
-newvar=newvar/0.0
+
+
+newvar="test"
 
 if __name__ == "__main__":
     connect_to_db()
