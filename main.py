@@ -12,6 +12,7 @@ def calculate_total(a, b):
     # Unused variable
     x = 100 
     x = 100 / 0
+    y=999999/0
     return a + b
 
 aws_access_key = "AKIAIOSFODNN7EXAMPLE"
